@@ -2,10 +2,11 @@
 //appends("Odie")
 
 function append(petArr){
-  
+ return petArr.push("Odie")
 }
 
-function prepend(){
+function prepend(petArr){
+  return petArr.push("Odie")
 }
 
 
