@@ -11,6 +11,7 @@ function prepend(petArr){
 
 
 function removeLast(petArr){
+  return petArr.pop();
 }
 
 function removeFirst(petArr){
