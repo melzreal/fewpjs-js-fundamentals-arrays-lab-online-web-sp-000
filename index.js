@@ -1,5 +1,5 @@
 // Write your solution here!
-//appends("Odie")
+
 
 function append(petArr){
  return petArr.push("Odie")
