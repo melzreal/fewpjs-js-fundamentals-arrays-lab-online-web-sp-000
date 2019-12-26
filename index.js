@@ -6,7 +6,7 @@ function append(petArr){
 }
 
 function prepend(petArr){
-  return petArr.push("Odie")
+  return petArr.unshift("Odie")
 }
 
 
