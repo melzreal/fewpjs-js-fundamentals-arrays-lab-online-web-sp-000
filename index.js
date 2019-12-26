@@ -15,4 +15,5 @@ function removeLast(petArr){
 }
 
 function removeFirst(petArr){
+  return petArr.shift();
 }
