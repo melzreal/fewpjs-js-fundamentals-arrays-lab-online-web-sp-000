@@ -1,5 +1,6 @@
 // Write your solution here!
 
+const append = 
 
 function append(petArr){
  return petArr.push("Odie")
